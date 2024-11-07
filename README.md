@@ -1,9 +1,8 @@
 ## Hi, I'm Mohammed Zuoriki!
 
 👩🏻‍💻 Cybersecurity Student sharing about my journey and learnings in tech <br/>
-👩🏻‍🎓 Study Information Technology with Cybersecurity at Newham Sixth Form College (NewVic), London <br/>
 🐍 Programming as Hobby <br/>
-🎨 Making videos about Coding Projects and tech on Instagram <br/>
+🎨 Making videos about Coding Projects and tech on Instagram & Youtube <br/>
 🌷 I have passion in the IT Sector <br/>
 💭 Currently learning about Defensive Security Analyst! <br/>
 
