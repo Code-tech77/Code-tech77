@@ -2,9 +2,9 @@
 
 👩🏻‍💻 Cybersecurity Student sharing about my journey and learnings in tech <br/>
 🐍 Programming as Hobby <br/>
-🎨 Making videos about Coding Projects and tech on Instagram & Youtube <br/>
-🌷 I have passion in the IT Sector <br/>
-💭 Currently learning about Cybersecurity! <br/>
+🎨 Cybersecurity Content Creator "CyberTutor" <br/>
+🌷 I have passion in the Cybersecurity Sector <br/>
+💭 Currently learning about cloud Security ! <br/>
 
 
 
