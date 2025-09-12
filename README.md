@@ -1,10 +1,11 @@
 ## Hi, I'm Mohammed Zuoriki!
 
-👩🏻‍💻 Cybersecurity Student sharing about my journey and learnings in tech <br/>
-🐍 Programming as Hobby <br/>
+👩🏻‍💻 Student sharing about my journey and learning in tech <br/>
 🎨 Cybersecurity Content Creator "CyberTutor" <br/>
-🌷 I have passion in the Cybersecurity Sector <br/>
-💭 Currently learning about cloud Security ! <br/>
+🌷 Cybersecurity Blog Write "CyberNews" <br/>
+🐍 Programming as Hobby <br/>
+📚 Obsessed with reading books and habit stacking <br/>
+🎓 Currently learning about Cyberecurity at Brunel Univeristy of London <br/>
 
 
 
