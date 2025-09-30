@@ -5,7 +5,7 @@
 🌷 Cybersecurity Blog Write "CyberNews" <br/>
 🐍 Programming as Hobby <br/>
 📚 Obsessed with reading books and habit stacking <br/>
-🎓 Currently learning about Cyberecurity at Brunel Univeristy of London <br/>
+🎓 Currently learning about CS with Cyberecurity at Brunel Univeristy of London <br/>
 
 
 
