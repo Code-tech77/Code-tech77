@@ -3,7 +3,7 @@
 
 - Cybersecurity student @ Brunel University London. <br>
 - Building hands-on infrastructure projects, documenting the journey <br>
-- Passionately creating educational cybersecurity content on YouTube (“CyberTutor”, 2.3K+ subscribers) <br>
+- Passionately creating educational cybersecurity content on YouTube (“CyberTutor”, 2.5K+ subscribers) <br>
 - Background in IT, homelab labs, programming projects, and a strong focus on continuous learning and self-improvement. <br>
 - Focused on continuous learning and real world problem solving. <br>
 
